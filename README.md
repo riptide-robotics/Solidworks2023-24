@@ -1,5 +1,5 @@
 # Solidworks2023-24
-Only Commit files using this naming convention: 
-parts: fileDescriptor, subassemblyName, yourInitials.extension
-subassemblies: subassemblyName, assemblyName, yourInitials.extension
-assemblies: assemblyName, botName, yourInitials.extension
+Only Commit files using this naming convention: \n
+parts: fileDescriptor, subassemblyName, yourInitials.extension \n
+subassemblies: subassemblyName, assemblyName, yourInitials.extension \n
+assemblies: assemblyName, botName, yourInitials.extension \n
